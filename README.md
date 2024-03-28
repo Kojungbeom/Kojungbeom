@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kojungbeom?theme=light&font=Source%20Sans%203)
 <!--
 **Kojungbeom/Kojungbeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
